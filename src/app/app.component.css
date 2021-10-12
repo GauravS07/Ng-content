@@ -1,0 +1,27 @@
+.card {
+  margin-left: 15px;
+  margin-right: 15px;
+  height: 94%;
+}
+
+.main {
+  display: flex;
+}
+
+.example-header-image {
+
+  background-size: cover;
+}
+
+.example-header-image {
+  background-image: url('src/assets/539ff32ec9d53f12952896dbbf6a28cb.png');
+  background-size: cover;
+}
+
+.image {
+  width: 90%;
+}
+
+.page {
+    background-color: lightblue;
+}
